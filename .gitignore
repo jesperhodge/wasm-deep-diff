@@ -15,4 +15,4 @@ Cargo.lock
 /target
 /Cargo.lock
 
-*/**/node_modules
+/*/**/node_modulesnode_modules/
